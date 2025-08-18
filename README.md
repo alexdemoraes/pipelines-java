@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/alexdemoraes/LearningProject/_apis/build/status%2Falexdemoraes.pipelines-java?branchName=main)](https://dev.azure.com/alexdemoraes/LearningProject/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
